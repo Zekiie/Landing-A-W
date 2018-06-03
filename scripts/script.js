@@ -7,6 +7,7 @@ var prevBtn = element('prev'),
     search = element('search'),
     menu = element('menu'),
     menu_i = element('icon_m'),
+    x = element('x');
     size = slides.length - 1,
     count = 0;
 
@@ -23,6 +24,7 @@ window.addEventListener('scroll', function () {
 
 menu_i.addEventListener('click', showMenu);
 
+
 function element(id) {
     return document.getElementById(id);
 }
@@ -32,6 +34,7 @@ function showMenu (){
         input.style.display = 'none';
     }
         menu.style.display = 'flex';
+
 }
 
 function hideMenu() {
@@ -39,6 +42,10 @@ function hideMenu() {
         menu.style.display = 'none';
     }
 }
+
+x.addEventListener('mouseover', function() {
+    this.classList.toggle("change");
+});
 function nextSlide () {
 
     slides[count].classList.add('non_active');
@@ -68,6 +75,7 @@ function randomColor() {
         color = "rgb(" + x + "," + y + "," + z + ")";
     return color;
 }
+
 
 
 nextBtn.addEventListener('click', nextSlide);
