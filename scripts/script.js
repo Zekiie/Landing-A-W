@@ -11,7 +11,6 @@ var prevBtn = element('prev'),
     size = slides.length - 1,
     count = 0;
 
-console.log(menu)
 
 search.addEventListener('mouseover', function () {
     hideMenu();
