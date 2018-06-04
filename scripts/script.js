@@ -7,10 +7,11 @@ var prevBtn = element('prev'),
     search = element('search'),
     menu = element('menu'),
     menu_i = element('icon_m'),
-    x = element('x');
+    x = element('x'),
     size = slides.length - 1,
     count = 0;
 
+console.log(menu)
 
 search.addEventListener('mouseover', function () {
     hideMenu();
@@ -23,7 +24,7 @@ window.addEventListener('scroll', function () {
 });
 
 menu_i.addEventListener('click', showMenu);
-
+x.addEventListener("click", hideMenu);
 
 function element(id) {
     return document.getElementById(id);
@@ -43,9 +44,6 @@ function hideMenu() {
     }
 }
 
-x.addEventListener('mouseover', function() {
-    this.classList.toggle("change");
-});
 function nextSlide () {
 
     slides[count].classList.add('non_active');

@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/images/white_phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/images/white_phone.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +25,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+                <state relative-caret-position="416">
+                  <caret line="505" column="19" selection-start-line="505" selection-start-column="19" selection-end-line="505" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -33,8 +34,8 @@
           <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scripts/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="36" selection-start-line="36" selection-end-line="36" />
+                <state relative-caret-position="153">
+                  <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
                 </state>
               </provider>
             </entry>
@@ -46,8 +47,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+                <state relative-caret-position="435">
+                  <caret line="74" column="110" selection-start-line="74" selection-start-column="95" selection-end-line="74" selection-end-column="110" />
                   <folding>
                     <element signature="e#11540#11546#0" expanded="true" />
                   </folding>
@@ -63,7 +64,7 @@
     <findStrings>
       <find>h3</find>
       <find>slider</find>
-      <find />
+      <find>text-decoration: none;</find>
       <find>ul</find>
       <find>section_5</find>
       <find>line-h</find>
@@ -78,6 +79,7 @@
       <find>nav</find>
       <find>main</find>
       <find>drop</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -168,15 +170,15 @@
       <workItem from="1526204570483" duration="33378000" />
       <workItem from="1526277011528" duration="52966000" />
       <workItem from="1526377988171" duration="3056000" />
-      <workItem from="1527839448804" duration="8680000" />
+      <workItem from="1527839448804" duration="12085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98080000" />
+    <option name="totallyTimeSpent" value="101485000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06149341" />
@@ -285,15 +287,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="153">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="435">
+          <caret line="74" column="110" selection-start-line="74" selection-start-column="95" selection-end-line="74" selection-end-column="110" />
           <folding>
             <element signature="e#11540#11546#0" expanded="true" />
           </folding>
@@ -302,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="142" lean-forward="true" selection-start-line="142" selection-end-line="142" />
+        <state relative-caret-position="416">
+          <caret line="505" column="19" selection-start-line="505" selection-start-column="19" selection-end-line="505" selection-end-column="19" />
         </state>
       </provider>
     </entry>

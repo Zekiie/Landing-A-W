@@ -18,7 +18,7 @@ body {
     width: 900px;
     margin: 0 auto;
 }
-.sm_vs_logo, .logo_mn {
+.sm_vs_logo, .logo_mn, .white_phone_md   {
     display: none;
 }
 
@@ -64,11 +64,6 @@ a {
     font-family: 'Open Sans', sans-serif;
 }
 
-/*.nav_icon,{*/
-    /*cursor: pointer;*/
-
-/*}*/
-
 .burg_menu {
     display: inline-block;
     height: 30px;
@@ -81,20 +76,6 @@ a {
     background-color: #ffffff;
     margin: 4px 0;
     transition: 0.4s;
-}
-
-.change .bar1 {
-    -webkit-transform: rotate(-45deg) translate(-9px, 6px);
-    transform: rotate(-45deg) translate(-9px, 4px);
-}
-
-.change .bar2 {
-    opacity: 0;
-}
-
-.change .bar3 {
-    -webkit-transform: rotate(45deg) translate(-8px, -8px);
-    transform: rotate(45deg) translate(-8px, -5px);
 }
 
 .dropdown-nav {
@@ -129,10 +110,6 @@ ul li:hover {
     font-weight: 600;
 }
 
-a img {
-    margin:0 -15px 0 -15px;
-}
-
 .nav_icon:hover .dropdown-nav,
 .nav_icon:focus .dropdown-nav {
     display: flex;
@@ -148,7 +125,8 @@ a img {
 }
 #search_text {
     display: none;
-    margin: -20% 0 0 -795%;
+    margin: -5px 0 0 -180px;
+    position: absolute;
     background: none;
     border: 2px solid #fff;
     color: #fff;
@@ -520,6 +498,12 @@ footer .container {
     }
     .socials img {
         width: 2.5em;
+    }
+    .md_img_none {
+        display: none;
+    }
+    .white_phone_md {
+    display: block;
     }
 }
 
