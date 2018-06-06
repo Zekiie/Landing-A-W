@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c75f017-65cf-413c-833d-9c1b2901fe58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/black_phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/images/black_phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/black_phone1.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/images/black_phone1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/images/gallery.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/images/gallery.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="7c75f017-65cf-413c-833d-9c1b2901fe58" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,8 +19,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/styles/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="207">
-                  <caret line="540" column="5" lean-forward="true" selection-start-line="540" selection-start-column="5" selection-end-line="540" selection-end-column="5" />
+                <state relative-caret-position="615">
+                  <caret line="546" lean-forward="true" selection-start-line="546" selection-end-line="546" />
                 </state>
               </provider>
             </entry>
@@ -175,12 +168,12 @@
       <workItem from="1526204570483" duration="33378000" />
       <workItem from="1526277011528" duration="52966000" />
       <workItem from="1526377988171" duration="3056000" />
-      <workItem from="1527839448804" duration="17295000" />
+      <workItem from="1527839448804" duration="17898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106695000" />
+    <option name="totallyTimeSpent" value="107298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -309,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="540" column="5" lean-forward="true" selection-start-line="540" selection-start-column="5" selection-end-line="540" selection-end-column="5" />
+        <state relative-caret-position="615">
+          <caret line="546" lean-forward="true" selection-start-line="546" selection-end-line="546" />
         </state>
       </provider>
     </entry>
